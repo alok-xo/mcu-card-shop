@@ -1,0 +1,27 @@
+.input-wrapper {
+    background-color: white;
+    width: 50%;    
+    border-radius: 4rem;
+    height: 3.5rem;
+    padding: 0 1.5rem;
+    box-shadow: 0px 0px 8px #ddd;
+    align-items: center;
+    /* margin-top: 1.8rem; */
+    color: #4068e0;
+}
+
+input{
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+    margin-left: .5rem;
+    transition: 0.4s;
+}
+input:focus{
+    outline: none;
+}
+input:hover{
+    opacity: 0.8;
+}

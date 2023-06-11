@@ -1,0 +1,9 @@
+.about{
+    text-align: left;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.exprence{
+    justify-content: center;
+    display: flex;
+}

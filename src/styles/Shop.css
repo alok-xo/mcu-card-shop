@@ -1,0 +1,187 @@
+.shop_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-top: 10rem;
+}
+
+.shop_container .jk {
+    width: 92.6%;
+    color: #006262;
+    position: absolute;
+    justify-content: center;
+    margin: -8rem 0rem 0rem 0rem;
+}
+
+#heading_shop {
+    color: #ffffff;
+    font-family: 'Carter One', cursive;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.card-container {
+    width: 18.1rem;
+    overflow: hidden;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.12);
+    margin: 1rem;
+    transition: 0.5s;
+    text-align: start;
+    border-radius: 1rem;
+}
+
+.image-container img {
+    overflow: hidden;
+    height: 20rem;
+    width: 100%;
+}
+
+.card-content {
+    margin: 1.5rem;
+    margin-top: 0.7rem;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.card-title {
+    margin-bottom: 0.5rem;
+}
+
+.card-body,
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-title {
+    height: 14rem;
+}
+
+.card-container:hover {
+    box-shadow: 0rem 0rem 1.5rem -0.5rem;
+}
+
+.card-footer {
+    justify-content: center;
+    display: flex;
+    padding: .5rem;
+}
+
+.card-footer button {
+    padding: .8rem;
+    border-radius: 0.7rem;
+    box-shadow: none;
+    transition: 0.2s;
+}
+
+.card-footer button:hover {
+    box-shadow: 0 2px 20px rgba(255, 0, 130, 0.6);
+}
+
+select,
+option {
+    border: none;
+    padding: 1REM;
+    width: 20%;
+    border-radius: .5rem;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+
+select:focus {
+    outline: none;
+}
+
+.dropdown {
+    height: 3.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    font-size: 1.2rem;
+    margin-bottom: 7.5rem;
+}
+
+.dropdown1 {
+    border-radius: 1rem;
+}
+
+.dropdown1 :hover {
+    /* padding: 1rem; */
+    cursor: pointer;
+}
+
+/* .dropdown-content {
+    padding: 0.4rem;
+    display: inline-block;
+    width: 15rem;
+    border-radius: 1rem;
+    
+    background-color: #ffffff;
+    margin-top: .5rem;
+} */
+
+.dropdown1 {
+    margin-top: -3rem;
+    margin-right: 7rem;
+    height: 14rem;
+}
+
+.dropdown-item {
+    width: 90%;
+    text-align: start;
+    padding: 0.1rem;
+}
+
+.ddown {
+    margin: 0.7rem 1rem 0rem 0rem;
+}
+
+.dropdown-btn {
+    justify-content: space-around;
+    display: flex;
+    border-radius: 1rem;
+    width: 15rem;
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+    padding: 0.4rem;
+}
+
+.dropdown-item:hover {
+    background: #f4f4f4;
+}
+
+Popup {
+    color: #006262;
+    /* width: 30rem; */
+    /* font-size: 5rem; */
+    margin: 5rem;
+}
+
+
+.dropdown select {
+    height: 5rem;
+    width: 100%;
+}
+
+.selectarea {
+    margin-right: 4rem;
+}
+
+.fst {
+    width: 30rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+thead{
+    font-size: 1.5rem;
+}
+tbody{
+    font-size: 2rem;
+}
+tbody tr:hover{
+    transition: .5s;
+    background-color:#f4f4f4 ;
+}

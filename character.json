@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.pinimg.com/550x/5d/d2/c8/5dd2c8f82ef46e0db3fe07a6e3285c2f.jpg",
+        "Publisher": "Marvel Comics",
+        "name": "Iron Man",
+        "First_appearance": "Tales of Suspense #39 (March 1963)",
+        "Alter_ego": "Anthony Edward Stark",
+        "Species": "Human",
+        "Team_affiliations": "Avengers, A.I. Army, Department of Defense, Force Works, New Avengers, Guardians of the Galaxy, Illuminati, Mighty Avengers, S.H.I.E.L.D., Stark Industries, Stark Resilient.",
+        "movie_1": {
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+            "movie_name": "Iron Man",
+            "relese_year": 2008
+        },
+        "movie_2": {
+            "image": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+            "movie_name": "Iron Man 2",
+            "relese_year": 2010
+        },
+        "movie_3": {
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+            "movie_name": "Iron Man 3",
+            "relese_year": 2013
+        },
+        "abilities": "Proficient scientist and engineer, Genius level intellect, Powered armor suit granting: Superhuman strength, speed, durability, agility, reflexes, and senses, Energy repulsor and missile projection, Regenerative life support, Supersonic flight"
+    },
+    {
+        "id": 2,
+        "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Thor_in_LoveAndThunder_Poster.jpg/revision/latest?cb=20220615195810",
+        "Publisher": "Marvel Comics",
+        "name": "Thor Odinson",
+        "First_appearance": "Journey into Mystery #83(August 1962)",
+        "Alter_ego": "Anthony Edward Stark",
+        "Species": "Asgardian",
+        "Team_affiliations": "Avengers, Warriors Three, Thor Corps, God Squad, Avengers Unity Squad",
+        "movie_1": {
+            "image": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+            "movie_name": "Thor",
+            "relese_year": 2011
+        },
+        "movie_2": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_.jpg",
+            "movie_name": "Thor: The Dark World",
+            "relese_year": 2013
+        },
+        "movie_3": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_FMjpg_UX1000_.jpg",
+            "movie_name": "Thor: Ragnarok",
+            "relese_year": 2017
+        },
+        "movie_4": {
+            "image": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "movie_name": "Thor: Love and Thunder",
+            "relese_year": 2022
+        },
+        "abilities": "Superhuman strength, stamina, durability, speed, agility, reflexes, healing, longevity, and senses, Manipulation of weather and matter, Energy manipulation, Mjolnir grants:Dimensional travel, Fight"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+        "Publisher": "Marvel Comics",
+        "name": "Captain America",
+        "First_appearance": "Captain America Comics #1 (March 1941)",
+        "Alter_ego": "Steven Rogers",
+        "Species": "Human mutate",
+        "Team_affiliations": "Avengers, Avengers Unity Division, All-Winners Squad Illuminati, Invaders, Landau, Luckman, and Lake New Avengers, Project: Rebirth, Redeemers, S.H.I.E.L.D., Secret Avengers, Uncanny Avengers, Secret Defenders, U.S. Army",
+        "movie_1": {
+            "image": "https://www.themoviedb.org/t/p/original/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+            "movie_name": "Captain America: The First Avenger",
+            "relese_year": 2011
+        },
+        "movie_2": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_FMjpg_UX1000_.jpg",
+            "movie_name": "Captain America: The Winter Soldier",
+            "relese_year": 2014
+        },
+        "movie_3": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+            "movie_name": "Captain America: Civil War",
+            "relese_year": 2016
+        },
+        "abilities": "Enhanced strength, speed, stamina, durability, agility, reflexes, senses, and mental processing via the super soldier serum, Accelerated healing, Master martial artist and hand-to-hand combatant, Master tactician, strategist, and field commander, Using Vibranium-steel alloy shield"
+    },
+    {
+        "id": 4,
+        "img": "https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&w=1000&q=80",
+        "Publisher": "Marvel Comics",
+        "name": "Spider Man",
+        "First_appearance": "Amazing Fantasy #15: Introducing Spider-Man: Spider-Man! (August 1962)",
+        "Alter_ego": "Peter Benjamin Parker",
+        "Species": "Human mutate",
+        "Team_affiliations": "Avengers, Fantastic Four, X-Men, Secret Defenders, Future Foundation, Daily Bugle, Heroes for Hire, Mighty Avengers, New Avengers, Spider-Army / Web-Warriors",
+        "movie_1": {
+            "image": "https://m.media-amazon.com/images/I/81EXwnM8H0L._SL1450_.jpg",
+            "movie_name": "Spider-Man",
+            "relese_year": 2002
+        },
+        "movie_2": {
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Spider-Man_2_Poster.jpg/220px-Spider-Man_2_Poster.jpg",
+            "movie_name": "Spider-Man 2",
+            "relese_year": 2004
+        },
+        "movie_3": {
+            "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+            "movie_name": "Spider-Man 3",
+            "relese_year": 2007
+        },
+        "movie_4": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+            "movie_name": "The Amazing Spider-Man",
+            "relese_year": 2012
+        },
+        "movie_5": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+            "movie_name": "The Amazing Spider-Man 2",
+            "relese_year": 2014
+        },
+        "movie_6": {
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+            "movie_name": "Spider-Man: Homecoming",
+            "relese_year": 2017
+        },
+        "movie_7": {
+            "image": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/Spider-Man-FarFromHome-rating.jpg?itok=CGe-MMMn",
+            "movie_name": "Spider-Man: Far From Home",
+            "relese_year": 2019
+        },
+        "movie_8": {
+            "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+            "movie_name": "Spider-Man: No Way Home",
+            "relese_year": 2021
+        },
+        "abilities": "Like his namesake, Spider-Man's strength and agility stand far above those of the average human, allowing him to lift nearly ten tons and to leap and move at incredible speeds with high accuracy. He also heals faster than normal when injured, though he is not completely immune to viruses and other human ailments"
+    },
+    {
+        "id": 5,
+        "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f5/Hawkeye_Char_Poster.jpg/revision/latest/scale-to-width-down/350?cb=20211118181820",
+        "Publisher": "Bill Helenthal",
+        "name": "Clint Barton",
+        "First_appearance": "Thor (2011)",
+        "Alter_ego": "Clint Barton",
+        "Species": "Human",
+        "Team_affiliations": "Avengers, S.H.I.E.L.D., S.T.R.I.K.E.",
+        "movie_1": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMGQ1OWNlY2QtMGY1NC00ZDkxLWJhZTktMzg5Mzk5YWY1YzA1XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_.jpg",
+            "movie_name": "hawkwyw",
+            "relese_year": 2021
+        },
+        "Infomation": "Infomation",
+        "abilities": "Bow and quiver, Compound and Recurve bows,Wristbow Retractable katana, Shuriken (as Ronin) Combat knives Collapsible baton Various trick arrows Various firearms",
+        "info": "Clinton Francis Barton is a fictional character portrayed by Jeremy Renner in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—more commonly known by his alias, Hawkeye. Barton is depicted as an expert marksman, archer and hand-to-hand combatant, with his preferred weapon being a recurve bow. Barton becomes an agent of S.H.I.E.L.D. and befriends Natasha Romanoff. Later, Barton is recruited by Steve Rogers and becomes a founding member of the Avengers. He aids the team in the Battle of New York, the HYDRA uprising, and the Ultron Offensive, in which he forms a close bond with Wanda Maximoff. Barton then aids Rogers in his effort to protect Bucky Barnes, alongside Sam Wilson, Maximoff, and Scott Lang. After Barton's family is decimated by The Blip, he becomes a vigilante and violently dismantles organized crime as Ronin. However, Romanoff finds him and brings him back to the team, where they quantum time travel to alternate timelines in order to undo the Blip. After they are successful, Barton participates in the Battle at the Avengers Compound.[a][4] Barton then returns to his family. On a family vacation, his time as Ronin causes continued conflicts with various elements of organized crime and he takes in a protégé named Kate Bishop."
+    },
+    {
+        "id": 6,
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
+        "Publisher": "Marvel Comics",
+        "name": "Hulk",
+        "First_appearance": "The Incredible Hulk #1 (May 1962)",
+        "Alter_ego": "Robert Bruce Banner",
+        "Species": "Human mutate",
+        "Team_affiliations": "Avengers, Defenders, Horsemen of Apocalypse, Fantastic Four, Pantheon, Warbound, S.M.A.S.H., Secret Avengers",
+        "movie_1": {
+            "image": "https://m.media-amazon.com/images/I/61bhZnlSK6L._AC_UF894,1000_QL80_.jpg",
+            "movie_name": "Hulk",
+            "relese_year": 2003
+        },
+        "movie_2": {
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg",
+            "movie_name": "The Incredible Hulk",
+            "relese_year": 2008
+        },
+        "abilities": "As Bruce Banner/Doc Green Genius level intellect, Proficient scientist and engineer, As Hulk/Joe Fixit Superhuman strength, speed, stamina, and durability, Anger empowerment, Regeneration, Shockwave generation, Gamma ray emission and manipulation"
+    },
+    {
+        "id": 7,
+        "img": "https://static.wikia.nocookie.net/marvelmovies/images/d/d3/Hank_Pym_profile_pic.jpg/revision/latest?cb=20180707021350",
+        "Publisher": "Marvel Comics",
+        "name": "Hank Pym",
+        "First_appearance": "As Hank Pym Tales to Astonish #27 (January 1962)",
+        "Alter_ego": "Henry Jonathan Pym",
+        "Species": "Human mutate",
+        "Team_affiliations": "Avengers, West Coast Avengers, Mighty Avengers, Secret Defenders, Defenders, Avengers Academy, Secret Avengers, Avengers A.I., Illuminati",
+        "movie_1": {
+            "image": "",
+            "movie_name": ""
+        },
+        "abilities": "Genius-level intellect, Expert biochemist and myrmecologist, Superhuman strength, stamina, durability and mass in giant form (as Giant-Man, Goliath and Yellowjacket), Bio-Energy Projection, also known as a Bio-Sting (particularly during his periods as Ant-Man and Yellowjacket), Telepathic communication with ants via cybernetic helmet (as Ant-Man), Maintains strength of normal size in shrunken state</body>"
+    },
+    {
+        "id": 8,
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.pngr",
+        "Publisher": "Marvel Comics",
+        "name": "Black Panther",
+        "First_appearance": "Fantastic Four #52(July 1966)",
+        "Alter_ego": "T'Challa",
+        "Species": "Human mutate",
+        "Team_affiliations": "Avengers, Fantastic Four, Fantastic Force, Ultimates, Mighty Avengers, New Avengers",
+        "movie_1": {
+            "image": "https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg",
+            "movie_name": "Black Panther",
+            "relese_year": 2018
+        },
+        "movie_2": {
+            "image": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+            "movie_name": "Black Panther: Wakanda Forever",
+            "relese_year": 2022
+        },
+        "abilities": "The power to draw upon the knowledge, strength and every experience of every previous Black Panther Enhanced strength, endurance, speed, agility, reflexes, stamina and senses, Master hand-to-hand combatant and martial artist, Genius-level intellect, Highly proficient tactician, strategist and inventor, Utilizing vibranium suit and equipment"
+    }
+]

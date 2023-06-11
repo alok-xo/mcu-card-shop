@@ -1,0 +1,22 @@
+
+.sxl main{
+    color: #fff;
+    display: inline-block;
+    font-size: 5rem;
+    padding: 10rem;    
+}
+
+.sxl main ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 2rem;
+    transition: .4s;
+    
+}
+.sxl ul li:hover{
+    opacity: 0.6;  
+}
+.sxl a{
+    color: black;
+    text-decoration: none;
+}

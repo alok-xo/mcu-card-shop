@@ -1,0 +1,47 @@
+html {
+    font-size: 62.5%;
+
+}
+
+.links {
+    margin-right: 3.8rem;
+}
+
+.links a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: .7rem 1.5rem .7rem 1.5rem;
+    font-family: 'Architects Daughter', cursive;
+    transition: .4s;
+}
+
+
+.links a:hover {
+    color: #ffffff;
+    border-radius: 1.7rem;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+    
+}
+
+ol li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.navbar {
+    font-size: 1.6rem;
+}
+
+@media(max-width:998px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+@media(max-width:768px) {
+    html {
+        font-size: 45%;
+    }
+}
