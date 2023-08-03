@@ -38,12 +38,6 @@ const Shop = () => {
     setcartCount(cartItems.length);
   }
   useEffect(() => {
-    // axios({
-    //   method: "get",
-    //   url: "http://127.0.0.1:5566/character",
-    // }).then((response) => {
-    //   setCharacter(response.data);
-    // });
     LoadCategories();
     LoadProducts("http://fakestoreapi.com/products");
     GetCartCount();
